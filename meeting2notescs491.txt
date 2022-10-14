@@ -9,6 +9,6 @@ reading text file lines:
             spawn object
         if not:
             error message
-
+wat
 
 
