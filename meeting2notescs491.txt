@@ -1,0 +1,14 @@
+
+// === note 1: read text file and search for a command example: ===
+
+reading text file lines:
+    if first word in line is "create":
+        // we assume user has imported the object they want to create)
+        check whether object user is trying to create has been imported
+        if yes:
+            spawn object
+        if not:
+            error message
+
+
+
