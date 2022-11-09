@@ -1,1 +1,1 @@
-# CS491VRProject
+VRSBUTBI is a 3D VR (virtual reality) construction simulator that will be built on the Unity game engine. Its purpose is to provide novice construction operators with an introduction to their work setting, and tasks, thus allowing operators to familiarize themselves with the tools and operation procedures, while removing the risks involved. In addition, operating in a virtual environment will allow for construction supervisors to observe and capture worker footage in real time for later evaluation.
